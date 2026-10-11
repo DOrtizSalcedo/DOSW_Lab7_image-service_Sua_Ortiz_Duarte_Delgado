@@ -1,14 +1,12 @@
-# image-service
-
-
+# Image-Service
 
 Microservicio en Spring Boot que almacena imágenes en MongoDB. Corresponde a la Parte B del Laboratorio 7 de Desarrollo y Operaciones de Software.
 
+## Enlace al repositorio principal
 
+[Repositorio principal](https://github.com/DOrtizSalcedo/DOSW_Lab7_Sua_Ortiz_Duarte_Delgado)
 
 ## Configuración usada
-
-
 
 - MongoDB en Docker (contenedor mongo-lab7, puerto 27017)
 
