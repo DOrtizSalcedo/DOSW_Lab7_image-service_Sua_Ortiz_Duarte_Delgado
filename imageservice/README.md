@@ -36,7 +36,7 @@ POST /imagenes con archivo y referenciaExterna. Respuesta 201 Created.
 
 
 
-![Subir imagen](imageservice/docs/evidencias/01-subir-imagen.png)
+![Subir imagen](docs/evidencias/01-subir-imagen.png)
 
 
 
@@ -48,7 +48,7 @@ GET /imagenes. Respuesta 200 OK.
 
 
 
-![Listar imágenes](imageservice/docs/evidencias/02-listar-imagenes.png)
+![Listar imágenes](docs/evidencias/02-listar-imagenes.png)
 
 
 
@@ -60,7 +60,7 @@ GET /imagenes/{id}. Respuesta 200 OK con la imagen.
 
 
 
-![Consultar imagen](imageservice/docs/evidencias/03-consultar-imagen.png)
+![Consultar imagen](docs/evidencias/03-consultar-imagen.png)
 
 
 
@@ -72,7 +72,7 @@ GET /imagenes/referencia/{referenciaExterna}. Respuesta 200 OK.
 
 
 
-![Listar por referencia](imageservice/docs/evidencias/04-listar-por-referencia.png)
+![Listar por referencia](docs/evidencias/04-listar-por-referencia.png)
 
 
 
@@ -84,7 +84,7 @@ DELETE /imagenes/{id}. Respuesta 204 No Content.
 
 
 
-![Eliminar imagen](imageservice/docs/evidencias/05-eliminar-imagen.png)
+![Eliminar imagen](docs/evidencias/05-eliminar-imagen.png)
 
 
 
@@ -96,7 +96,7 @@ La imagen eliminada ya no se encuentra.
 
 
 
-![Imagen eliminada](imageservice/docs/evidencias/06-imagen-eliminada.png)
+![Imagen eliminada](docs/evidencias/06-imagen-eliminada.png)
 
 
 
@@ -108,5 +108,5 @@ Documento guardado en la colección imagenes de la base lab8images, consultado c
 
 
 
-![Colección en MongoDB](imageservice/docs/evidencias/07-mongo-coleccion-imagenes.png)
+![Colección en MongoDB](docs/evidencias/07-mongo-coleccion-imagenes.png)
 
